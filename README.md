@@ -1,2 +1,2 @@
-# nvs-media-studios.
+# nvs-media-studios
 Página web oficial de NVS Media Studios.
